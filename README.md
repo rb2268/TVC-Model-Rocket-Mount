@@ -1,3 +1,4 @@
+<img width="1192" height="1590" alt="IMG_3829 (1)" src="https://github.com/user-attachments/assets/a9fa21d9-93bf-45a1-9309-4007198fe86c" />
 Contributor(s): Riley Becker
 2/25/26
 Project: TVC Mount PID Loop
