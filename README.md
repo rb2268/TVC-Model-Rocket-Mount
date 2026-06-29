@@ -1,4 +1,4 @@
-Contributor(s): Riley Becker
+Contributor: Riley Becker
 2/25/26
 Project: TVC Mount PID Loop
 
